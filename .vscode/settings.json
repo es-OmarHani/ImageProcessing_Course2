@@ -1,0 +1,18 @@
+{
+    "cSpell.words": [
+        "absdiff",
+        "bgsegm",
+        "dtype",
+        "fgbg",
+        "hstack",
+        "imread",
+        "imshow",
+        "Linesp",
+        "matplotlib",
+        "polylines",
+        "pyplot",
+        "Sobel",
+        "Subtractor",
+        "Trackbar"
+    ]
+}
