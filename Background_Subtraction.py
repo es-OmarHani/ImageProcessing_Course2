@@ -46,8 +46,8 @@ def method_4(frame) :
 
 
 #read video
-cap = cv.VideoCapture(r"C:\Users\amora\OneDrive\Documents\Visual Studio Code\Course_Imageproccesing2\videos\vtest.avi.mp4")
-
+cap = cv.VideoCapture(0)
+# r"C:\Users\amora\OneDrive\Documents\Visual Studio Code\Course_Imageproccesing2\videos\vtest.avi.mp4"
 #object of method 1
 fgbg_1 = cv.bgsegm.createBackgroundSubtractorMOG()
 
