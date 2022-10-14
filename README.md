@@ -1,7 +1,3 @@
-# ImageProcessing_Course2
-
-
-##Second 
-###Omar
-
-
+# The largest heading
+## The second largest heading
+###### The smallest heading
